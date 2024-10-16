@@ -1,0 +1,12 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "Simple CRUD API with HTTP and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}
